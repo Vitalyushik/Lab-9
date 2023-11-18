@@ -11,10 +11,7 @@
 # Правила пользования
 Открыть файл с помощью нужного компилятора (можно скопировать текст в онлайн), сделать откалдку и компиляцию программы, проверить на тестах.
 
-
-
-
-![image](https://github.com/Vitalyushik/Lab-9/assets/146360520/9a718de2-7828-4484-aac2-228ccfce0d39)
+  ![image](https://github.com/Vitalyushik/Lab-9/assets/146360520/9a718de2-7828-4484-aac2-228ccfce0d39)
 ![image](https://github.com/Vitalyushik/Lab-9/assets/146360520/8af0bae6-787f-4529-a5b2-e8d964d03a2a)
 ![image](https://github.com/Vitalyushik/Lab-9/assets/146360520/8832a9c0-bfe9-4124-8afc-4a542788dab2)
 ![image](https://github.com/Vitalyushik/Lab-9/assets/146360520/19372adc-cdce-4d4d-af3b-000b3fa94ab6)
